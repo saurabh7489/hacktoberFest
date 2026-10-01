@@ -1,0 +1,6 @@
+{
+  "name": "MailCraft AI - Professional AI Email Writer",
+  "description": "Generate polished, high-impact professional emails in seconds tailored to your desired tone, recipient, and goal with instant refinement, variations, and smart subject lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
