@@ -1,6 +1,7 @@
 # MailCraft AI - Professional AI Email Writer
 
 MailCraft AI is an enterprise-grade web application that transforms brief descriptions, rough thoughts, or incoming correspondence into polished, high-impact professional emails. Powered by Google Gemini 3.8 Flash, it tailors language to specific workplace recipients, communication intents, and strategic tones.
+
 **live Demo ** :- https://hacktoberfest7489.netlify.app/
 ---
 
